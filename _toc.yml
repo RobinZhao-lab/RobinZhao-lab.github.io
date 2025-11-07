@@ -1,4 +1,5 @@
 format: jb-book
 root: index
 chapters:
-  - file: lecture_16_example
+  - file: RobinZhao_Project1
+    title: "Project 1"
