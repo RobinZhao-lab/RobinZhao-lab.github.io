@@ -4,7 +4,8 @@ parts:
   - caption: "My Portfolio"
     chapters:
       - file: RobinZhao_Project1
-        title: "Project 1 – Central Park Squirrel Analysis"
+        title: "Project 1: Central Park Squirrel Analysis"
+
 
 
 
