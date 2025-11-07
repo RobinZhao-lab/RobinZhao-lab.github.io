@@ -1,5 +1,5 @@
 # Site-wide config for Jupyter Book
-title: "Project 1 – Central Park Squirrel Analysis"
+title: "Robin Zhao’s Portfolio"
 author: "Robin Zhao"
 
 only_build_toc_files: true
