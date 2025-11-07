@@ -3,8 +3,8 @@ root: index
 parts:
   - caption: "My Portfolio"
     chapters:
-      - file: index
-        title: "Robin Zhao’s Portfolio"
       - file: RobinZhao_Project1
         title: "Project 1 – Central Park Squirrel Analysis"
+
+
 
