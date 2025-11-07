@@ -1,6 +1,6 @@
 # Site-wide config for Jupyter Book
-title: "Robin Zhao's Portfolio"
-author: Robin Zhao
+title: "Project 1 – Central Park Squirrel Analysis"
+author: "Robin Zhao"
 
 only_build_toc_files: true
 exclude_patterns:
@@ -19,3 +19,4 @@ sphinx:
       - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.7/require.min.js
     suppress_warnings:
       - mystnb.unknown_mime_type
+
