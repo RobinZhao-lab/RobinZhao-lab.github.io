@@ -1,7 +1,7 @@
 format: jb-book
 root: index
 parts:
-  - caption: "My Portfolio"
+  - caption: "My Projects"
     chapters:
       - file: RobinZhao_Project1
         title: "Project 1: Central Park Squirrel Analysis"
