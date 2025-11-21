@@ -5,6 +5,8 @@ parts:
     chapters:
       - file: RobinZhao_Project1
         title: "Project 1: Central Park Squirrel Analysis"
+      - file: RobinZhao_Project2
+        title: Project 2: SAT & Poverty Analysis (NYC 2012)
 
 
 
