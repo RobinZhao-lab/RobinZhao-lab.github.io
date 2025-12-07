@@ -7,6 +7,8 @@ parts:
         title: "Project 1: Central Park Squirrel Analysis"
       - file: RobinZhao_Project2
         title: "Project 2: SAT & Poverty Analysis (NYC 2012)"
+      - file: RobinZhao_Project3
+        title: "Gender-Neutral Baby Name Trends in NYC (2011–2021)"
 
 
 
